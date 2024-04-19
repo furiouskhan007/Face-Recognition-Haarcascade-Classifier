@@ -2,6 +2,9 @@
 
 You can detect faces and identify all of them. You need to training it for detect faces. Now you're thinking how can I train it? So let's start. 
 
+# Python Compatibility 
+* Python 3.10.4
+
 ## Getting Started
 
 First of all you have to install modules for opencv
